@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Petstore_v2" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/petstore_v2.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/petstore_v1.xml</file>
+        </fileset>
+        <fileset id="fileset2" name="Petstore_v3" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/petstore_v3.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/petstore_v2.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/petstore_v1.xml</file>
+        </fileset>
+        <fileset id="fileset3" name="Petstore_v4" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/petstore_v4.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/petstore_v1.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/petstore_v2.xml</file>
+          <file>file://$MODULE_DIR$/src/main/resources/petstore_v3.xml</file>
+        </fileset>
+        <fileset id="fileset4" name="Petstore_v5" removed="false">
+          <file>file://$MODULE_DIR$/src/main/resources/petstore_v5.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>
